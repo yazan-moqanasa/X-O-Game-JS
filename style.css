@@ -1,0 +1,39 @@
+.game{
+    width: 255px;
+    text-align: center;
+    font-family: system-ui;
+    color: rgb(228, 222, 220);
+    margin:auto;
+    font-weight: 500;
+}
+.title{
+    background: rgba(184, 51, 51, 0.932);
+    margin: 5px  0;
+    padding: 5px 0;
+}
+span{
+    color: yellowgreen;
+}
+
+.square{
+    width: 80px;
+    height: 80px;
+    background: rgba(184, 51, 51, 0.932);
+    float: left;
+    margin: 2px ;
+    font-size: 50px;
+}
+.square:hover{
+ background-color: black;
+ cursor: pointer;
+}
+
+.yazan{
+    font-size: 100px;
+    font-family: fantasy;
+    color: rgb(28, 122, 153);
+    float: center;
+
+}
+
+
